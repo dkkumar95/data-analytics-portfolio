@@ -77,7 +77,7 @@ Provides actionable insights for emergency planning and resource allocation, hel
 
 *Completed as part of a graduate-level Data Analytics course.*
 
- **[View Project](./calfire-wildfire-prediction)**
+ **[View Project](./calfire-damage-prediction)**
 
 ---
 
