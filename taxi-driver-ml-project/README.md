@@ -29,7 +29,7 @@ Ranks potential pickup locations in real-time based on multiple factors:
 As **Data Lead**, I owned the entire data pipeline and machine learning development:
 
 ✅ **Data Engineering**
-- Cleaned and transformed 500K+ trip records
+- Cleaned and transformed 5.6 Million trip records
 - Engineered 15+ features from raw GPS, timestamp, and fare data
 - Built reproducible preprocessing pipelines
 
