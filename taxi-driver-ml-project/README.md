@@ -50,7 +50,7 @@ As **Data Lead**, I owned the entire data pipeline and machine learning developm
 
 ---
 
-📂 **[View Full Project Repository →](https://github.com/yourusername/taxi-driver-ml-project)**
+📂 **[View Full Project Repository →](https://github.com/matiasenrigue/Taximize/tree/main)**
 
 ---
 
