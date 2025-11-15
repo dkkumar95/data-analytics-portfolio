@@ -101,15 +101,6 @@ Showcases critical data preparation skills that ensure downstream analyses and m
 
 ---
 
-##  5. HTML Notebook Projects
-**Tools:** Python, SQL, HTML export  
-**Skills:** Query optimization, visualization, technical reporting
-
-HTML-rendered notebooks containing SQL and Python analyses with embedded visualizations and commentary.
-
- **[View Folder](./html-notebooks)**
-
----
 
 ## 🛠️ Technical Skills
 
