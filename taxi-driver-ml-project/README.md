@@ -103,7 +103,7 @@ As **Data Lead**, I owned the entire data pipeline and machine learning developm
 **Output:**  
 Real-time predictions of which zones will have highest customer availability in the next 30-60 minutes.
 
-📄 **Notebook:** `hotspot-prediction.ipynb`
+📄 **Notebook:** `Hotspot Prediction Function.ipynb`
 
 ---
 
@@ -127,7 +127,7 @@ Real-time predictions of which zones will have highest customer availability in 
 - Testing Period: July–December
 - Validated using TA feedback and real-world scenario testing
 
-📄 **Notebook:** `recommendation-system.ipynb`
+📄 **Notebook:** `train_monthly_models.ipynb`
 
 ---
 
@@ -167,11 +167,3 @@ Real-time predictions of which zones will have highest customer availability in 
 - Technical communication and presentation
 - Iterative development with stakeholder feedback
 
-
-
-
-Feel free to reach out or open an issue if you'd like to discuss this project further!
-
-**Contact:** dikshakkumar95@gmail.com  
-**LinkedIn:** [Add your link]  
-**GitHub:** [Add your link]
