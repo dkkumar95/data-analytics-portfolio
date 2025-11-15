@@ -127,7 +127,7 @@ Real-time predictions of which zones will have highest customer availability in 
 - Testing Period: July–December
 - Validated using TA feedback and real-world scenario testing
 
-📄 **Notebook:** `train_monthly_models.ipynb`
+📄 **Notebook:** `Final Scoring Model.ipynb`
 
 ---
 
