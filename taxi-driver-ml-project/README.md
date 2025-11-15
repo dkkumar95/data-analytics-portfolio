@@ -49,7 +49,7 @@ As **Data Lead**, I owned the entire data pipeline and machine learning developm
 - Delivered technical presentations and documentation
 
 ---
-*Completed as part of a graduate-level Data Analytics course.*
+*Completed as part of a graduate-level Research Practicum.*
 📂 **[View Full Project Repository →](https://github.com/matiasenrigue/Taximize/tree/main)**
 
 ---
