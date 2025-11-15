@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project develops an **ML-powered decision-support system** for taxi and ride-hailing drivers to maximize earnings by identifying optimal pickup locations after drop-offs. Using historical taxi trip data, we built two integrated machine learning models designed to work as a real-time companion tool via mobile app.
+This project develops an **ML-powered decision-support system** for taxi and ride-hailing drivers to maximize earnings by identifying optimal pickup locations after drop-offs. Using historical taxi trip data, we built two integrated machine learning models designed to work as a real-time companion tool via web app.
 
 ### Core Models
 
