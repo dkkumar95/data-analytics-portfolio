@@ -148,7 +148,6 @@ Real-time predictions of which zones will have highest customer availability in 
 - Created UI-friendly outputs for mobile app integration
 - Presented findings to cross-functional stakeholders
 
----
 
 ---
 
