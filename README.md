@@ -130,7 +130,9 @@ Exploratory data analysis, data cleaning, predictive modeling, clustering, trend
 ##  Let's Connect
 
 **Email:** dikshakkumar95@gmail.com  
+
 **LinkedIn:** https://www.linkedin.com/in/diksha-kumar-431553187
+
 **GitHub:** https://github.com/dkkumar95
 
 ---
