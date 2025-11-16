@@ -81,31 +81,38 @@ Provides actionable insights for emergency planning and resource allocation, hel
 
 ---
 
-##  4. Data Cleaning & Exploratory Analysis Projects
-**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn  
-**Skills:** Data preprocessing, outlier detection, missing value imputation, statistical analysis, visualization
+## 📈 4. Cryptocurrency Price Movement Prediction
+**Tools:** Python, TensorFlow/Keras, scikit-learn, XGBoost, pandas, NumPy, Matplotlib, Seaborn  
+**Skills:** Binary classification, time series forecasting, deep learning, ensemble methods, feature engineering, hyperparameter tuning
 
 ### Project Overview
-Demonstrates foundational data analysis workflows through end-to-end cleaning and exploration pipelines.
+Developed and compared multiple classification models to predict Bitcoin (BTC) price movements 30 minutes ahead, creating a trading signal system for cryptocurrency markets.
 
-### Highlights
-- Raw dataset assessment and quality profiling
-- Systematic cleaning pipelines with documentation
-- Exploratory visualizations uncovering key insights
-- Statistical summaries and trend identification
+### Models Implemented
+- **Random Forest** (Baseline ML model with overfitting prevention)
+- **XGBoost** (Advanced gradient boosting)
+- **LSTM** (Deep learning for sequential patterns)
+- **CNN-LSTM** (Custom hybrid architecture combining feature extraction with temporal modeling)
+
+### Key Features
+- Technical indicator engineering (RSI, MACD, Moving Averages, Bollinger Bands)
+- Chronological train/validation/test split to prevent data leakage
+- Data normalization for deep learning convergence
+- Comprehensive evaluation using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix
 
 ### Impact
-Showcases critical data preparation skills that ensure downstream analyses and models are built on clean, reliable data—reducing errors and improving decision-making quality.
+Demonstrates the application of both traditional machine learning and modern deep learning techniques to financial time series prediction, with custom architecture design showing improved performance over baseline models. The hybrid CNN-LSTM model combines spatial feature extraction with temporal modeling for robust price movement prediction.
 
- **[View Project](./additional-projects)**
+📂 **[View Project](./cryptocurrency-prediction)**
 
 ---
+
 
 
 ## 🛠️ Technical Skills
 
 **Programming & Analysis**  
-Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow/Keras)
 
 **Databases & Querying**  
 MySQL, SQL schema design, joins, constraints, query optimization
@@ -117,14 +124,14 @@ Tableau, Matplotlib, Seaborn
 Git, Jupyter Notebook, Excel, VS Code
 
 **Core Competencies**  
-Exploratory data analysis, data cleaning, predictive modeling, clustering, trend analysis, A/B testing
+Exploratory data analysis, data cleaning, predictive modeling, clustering, trend analysis, A/B testing, deep learning, time series forecasting
 
 ---
-
 ##  Let's Connect
 
 **Email:** dikshakkumar95@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/diksha-kumar-431553187
+
 **GitHub:** https://github.com/dkkumar95
 
 ---
