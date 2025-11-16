@@ -26,7 +26,7 @@ Ranks potential pickup locations in real-time based on multiple factors:
 
 ## 🔍 My Role: Data Lead
 
-As **Data Lead**, I owned the entire data pipeline and machine learning development:
+As **Data Lead**, I worked with a classmate to develop the overall project. I worked mainly on The scoring model, while my teammate worked on the hotspot prediction model while I oversaw their work. 
 
 ✅ **Data Engineering**
 - Cleaned and transformed 5.6 Million trip records
