@@ -91,3 +91,12 @@ The following calculated fields were created:
 ## 📂 File Included
 
 - `DikshaKumar_SalesProject.xlsx` — Full interactive dashboard and analysis
+
+---
+
+## ⚠️ Limitations
+
+- Dataset covers a limited time period
+- No customer demographic segmentation available
+- No cost data available for profitability analysis
+
