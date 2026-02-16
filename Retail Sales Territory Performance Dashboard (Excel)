@@ -1,0 +1,17 @@
+Retail-Sales-Territory-Performance-Dashboard-Excel/
+│
+├── README.md
+│
+├── excel/
+│     └── DikshaKumar_SalesProject.xlsx
+│
+├── visuals/
+│     ├── dashboard_full.png
+│     ├── kpi_section.png
+│     ├── territory_sales_chart.png
+│     ├── monthly_trend_chart.png
+│     ├── deal_size_chart.png
+│     └── pivot_table_example.png
+│
+└── documentation/
+      └── Retail_Sales_Project_Summary.pdf
