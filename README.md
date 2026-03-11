@@ -24,7 +24,29 @@ Each project includes business context, methodology, technical implementation, a
 
 ---
 
-# 📊 1. Retail Sales & Territory Performance Dashboard (Excel)
+## 🛒 1. Superstore Retail Sales — Exploratory Data Analysis (Python)
+**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
+**Skills:** Exploratory data analysis, statistical analysis, data visualisation, feature engineering, business insight generation
+
+### 📌 Overview
+Conducted a full end-to-end EDA on a retail superstore dataset to uncover sales trends, profitability drivers, and regional performance gaps. Translated findings into five actionable business recommendations.
+
+### 🔎 Key Insights
+- Discount had a **-0.86 correlation** with Profit Margin — heavy discounting is the biggest profitability threat
+- **Technology** was the highest profit category ($145,454); Tables, Bookcases and Supplies generated losses
+- The **South region** significantly underperformed vs West ($391K vs $725K in sales)
+- Clear **seasonal peak in November** (~$352K) with the lowest sales in February (~$60K)
+
+### 💡 Impact
+Identified key levers for profitability improvement including discount policy, regional strategy, and product portfolio optimisation.
+
+👉 [View Project](#)
+
+
+
+---
+
+# 📊 2. Retail Sales & Territory Performance Dashboard (Excel)
 
 **Tools:** Microsoft Excel, Pivot Tables, XLOOKUP, Statistical Functions, Slicers  
 **Skills:** Data validation, KPI calculation, dashboard design, business storytelling  
@@ -46,7 +68,7 @@ Converted raw transactional data into executive-level KPIs and strategic recomme
 
 ---
 
-# 🚖 2. Taxi Driver Hotspot Prediction & Recommendation System
+# 🚖 3. Taxi Driver Hotspot Prediction & Recommendation System
 
 **Role:** Data Lead  
 **Tools:** Python, pandas, NumPy, scikit-learn, Jupyter Notebook  
@@ -71,7 +93,7 @@ Reduces driver idle time and increases revenue potential through data-driven loc
 
 ---
 
-# 🏥 3. SQL Healthcare Database & Operational Analysis
+# 🏥 4. SQL Healthcare Database & Operational Analysis
 
 **Tools:** MySQL  
 **Skills:** Database normalization, ER modeling, joins, constraints, analytical queries  
@@ -92,7 +114,7 @@ Demonstrates backend data engineering skills and ability to design scalable, que
 
 ---
 
-# 🔥 4. CAL FIRE Wildfire Structure Damage Prediction
+# 🔥 . CAL FIRE Wildfire Structure Damage Prediction
 
 **Tools:** Python, pandas, scikit-learn, Matplotlib  
 **Skills:** Classification modeling, feature engineering, model evaluation, risk analytics  
@@ -115,7 +137,7 @@ Provides insights to assist emergency planning and prioritize high-risk areas du
 # 🧠 Core Technical Competencies
 
 ### Programming & Analysis
-- Python (pandas, NumPy, scikit-learn, Matplotlib)
+- Python (pandas, NumPy, scikit-learn, Matplotlib, Seaborn, SciPy)
 - SQL (MySQL)
 - Excel (Advanced formulas, Pivot Tables, dashboards)
 
