@@ -40,7 +40,7 @@ Conducted a full end-to-end EDA on a retail superstore dataset to uncover sales 
 ### 💡 Impact
 Identified key levers for profitability improvement including discount policy, regional strategy, and product portfolio optimisation.
 
-👉 [View Project](#)
+👉 [View Project](./superstore-eda)
 
 
 
