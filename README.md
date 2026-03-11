@@ -24,7 +24,7 @@ Each project includes business context, methodology, technical implementation, a
 
 ---
 
-## 🛒 1. Superstore Retail Sales — Exploratory Data Analysis (Python)
+# 🛒 1. Superstore Retail Sales — Exploratory Data Analysis (Python)
 **Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
 **Skills:** Exploratory data analysis, statistical analysis, data visualisation, feature engineering, business insight generation
 
