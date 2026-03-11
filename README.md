@@ -35,7 +35,7 @@ Conducted a full end-to-end EDA on a retail superstore dataset to uncover sales 
 - Discount had a **-0.86 correlation** with Profit Margin — heavy discounting is the biggest profitability threat
 - **Technology** was the highest profit category ($145,454); Tables, Bookcases and Supplies generated losses
 - The **South region** significantly underperformed vs West ($391K vs $725K in sales)
-- Clear **seasonal peak in November** (~$352K) with the lowest sales in February (~$60K)
+- Clear **seasonal peak in November** (\~\$352K) with the lowest sales in February (~$60K)
 
 ### 💡 Impact
 Identified key levers for profitability improvement including discount policy, regional strategy, and product portfolio optimisation.
