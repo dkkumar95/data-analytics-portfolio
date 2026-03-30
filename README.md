@@ -66,9 +66,36 @@ Converted raw transactional data into executive-level KPIs and strategic recomme
 
 👉 **[View Project](./Retail-Sales-Territory-Performance-Dashboard-Excel)**
 
+
 ---
 
-# 🚖 3. Taxi Driver Hotspot Prediction & Recommendation System
+# 📈 3. Global Retail Performance Dashboard (Tableau)
+
+**Tools:** Tableau
+**Skills:** Dashboard design, data visualization, calculated fields, business analysis, interactivity design
+
+### 📌 Overview
+
+Built an interactive Tableau dashboard to analyze global retail performance across multiple countries, product categories, and sales channels. The project focused on uncovering trends in sales, profitability, customer segments, and pricing strategy impact.
+
+### 🔎 Key Insights
+
+- Steady growth in cumulative sales over time indicates stable business performance
+- High-revenue categories do not always yield high profit, highlighting margin inefficiencies
+- Higher discount levels are strongly associated with lower profitability
+- Offline channel slightly outperforms online in both revenue and profit
+  
+### 💡 Business Impact
+
+Provided a clear, interactive decision-making tool enabling stakeholders to identify profitability risks, optimize discount strategies, and focus on high-performing channels and categories.
+
+👉 **[View Project](./)**
+
+---
+
+---
+
+# 🚖 4. Taxi Driver Hotspot Prediction & Recommendation System
 
 **Role:** Data Lead  
 **Tools:** Python, pandas, NumPy, scikit-learn, Jupyter Notebook  
@@ -93,7 +120,7 @@ Reduces driver idle time and increases revenue potential through data-driven loc
 
 ---
 
-# 🏥 4. SQL Healthcare Database & Operational Analysis
+# 🏥 5. SQL Healthcare Database & Operational Analysis
 
 **Tools:** MySQL  
 **Skills:** Database normalization, ER modeling, joins, constraints, analytical queries  
@@ -114,7 +141,7 @@ Demonstrates backend data engineering skills and ability to design scalable, que
 
 ---
 
-# 🔥 . CAL FIRE Wildfire Structure Damage Prediction
+# 🔥 6. CAL FIRE Wildfire Structure Damage Prediction
 
 **Tools:** Python, pandas, scikit-learn, Matplotlib  
 **Skills:** Classification modeling, feature engineering, model evaluation, risk analytics  
