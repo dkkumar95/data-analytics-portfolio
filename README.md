@@ -89,7 +89,7 @@ Built an interactive Tableau dashboard to analyze global retail performance acro
 
 Provided a clear, interactive decision-making tool enabling stakeholders to identify profitability risks, optimize discount strategies, and focus on high-performing channels and categories.
 
-👉 **[View Project](./)**
+👉 **[View Project](./Global-Retail-Performance-Tableau)**
 
 ---
 
