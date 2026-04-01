@@ -141,26 +141,6 @@ Demonstrates backend data engineering skills and ability to design scalable, que
 
 ---
 
-# 🔥 6. CAL FIRE Wildfire Structure Damage Prediction
-
-**Tools:** Python, pandas, scikit-learn, Matplotlib  
-**Skills:** Classification modeling, feature engineering, model evaluation, risk analytics  
-
-### 📌 Overview
-Built a predictive classification model using wildfire inspection data from CAL FIRE to assess structure damage risk.
-
-### 🎯 Goals
-- Identify key risk drivers  
-- Build and evaluate binary classification models  
-- Support emergency response decision-making  
-
-### 💡 Impact
-Provides insights to assist emergency planning and prioritize high-risk areas during wildfire events.
-
-👉 **[View Project](./calfire-damage-prediction)**
-
----
-
 # 🧠 Core Technical Competencies
 
 ### Programming & Analysis
@@ -206,5 +186,5 @@ Provides insights to assist emergency planning and prioritize high-risk areas du
 
 ---
 
-_Last updated: March 2026_
+_Last updated: April 2026_
 
